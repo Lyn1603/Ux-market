@@ -71,15 +71,11 @@
                     <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
                         lien parainage
                     </mj-button>
-                    <mj-text color="#637381" font-size="16px" padding-top="30px">
+                    <mj-text color="#637381" font-size="20px" padding-top="30px" align="center">
                         Code de parainage : E-parain2024
                     </mj-text>
-                    <mj-text color="#637381" font-size="16px" padding-top="30px">
-
-                    </mj-text>
-                    <mj-text color="#637381" font-size="16px" padding-bottom="0">
-                        Cordialement, L'équipe d'e-sport à Paris
-                    </mj-text>
+                  
+                
                 </mj-column>
             </mj-section>
             <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
