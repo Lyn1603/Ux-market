@@ -50,13 +50,13 @@
                         Merci à vous !
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
-                        Chère Lynda,
+                        Chère [[data:prénom:"Alexis"]],
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
-                Vous êtes désormais inscrit(e) à notre programme de parrainage ! En tant que nouvel(le) inscrit(e), vous êtes éligible à une récompense de bienvenue exclusive : 100 points de fidélité.                    
-                </mj-text>
-                <mj-text align="center" color="#637381" font-size="16px" padding-top="5%" font-weight="bold">
-                       Retrouvez vos points de fidélité sur votre espace :
+                        Vous êtes désormais inscrit(e) à notre programme de parrainage ! En tant que nouvel(le) inscrit(e), vous êtes éligible à une récompense de bienvenue exclusive : 100 points de fidélité.
+                    </mj-text>
+                    <mj-text align="center" color="#637381" font-size="16px" padding-top="5%" font-weight="bold">
+                        Retrouvez vos points de fidélité sur votre espace :
                     </mj-text>
 
                     <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://playzone-bay.vercel.app/" width="300px">
@@ -67,15 +67,15 @@
                         Nous sommes impatients de vous aider à atteindre vos objectifs grâce à notre programme de parrainage. Si vous avez des questions, n'hésitez pas à nous contacter.
                     </mj-text>
 
-                  
-   	<mj-text color="#637381" font-size="16px">
-            Cordialement,
-          </mj-text>
-          <mj-text color="#637381" font-size="16px">
-            Paris PlayZone
-          </mj-text>  
+
+                    <mj-text color="#637381" font-size="16px">
+                        Cordialement,
+                    </mj-text>
+                    <mj-text color="#637381" font-size="16px">
+                        Paris PlayZone
+                    </mj-text>
                 </mj-column>
-              
+
             </mj-section>
             <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
                 <mj-column width="100%">
@@ -97,13 +97,17 @@
                         </mj-social-element>
                     </mj-social>
                     <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
-                        View this email in your browser
+                        Lire cette email sur votre navigateur
+                        <br></br>
+                        [[PERMALINK]]
                     </mj-text>
                     <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-                        You are receiving this email advertisement because you registered with Croft's Accountants. (123 Main Street, Austin, TX 78701) and agreed to receive emails from us regarding new features, events and special offers.
+                        pour vous desinscrire cliquer ici
+                        <br></br>
+                        [[UNSUB_LINK_FR]]
                     </mj-text>
                     <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-                        &copy; Croft's Accountants Inc., All Rights Reserved.
+                        &copy; 16corp Tous droits réservés
                     </mj-text>
                 </mj-column>
             </mj-section>
