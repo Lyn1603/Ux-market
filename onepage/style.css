@@ -526,10 +526,9 @@ p
 
 .property-image
 {
-  height:6em;
+  height:18em;
   width:14em;
   padding:1em 2em;
-  margin-left: -1.3em;
   position:Absolute;
   top:0px;
   -webkit-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -539,7 +538,6 @@ p
   background-size:cover;
   background-repeat:no-repeat;
 }
-
 .property-image--mk {
   background-image:url('https://www.global-esports.news/wp-content/uploads/2022/08/CSGO-Patch-Map-Customization-and-New-Music.jpg');
 
@@ -547,35 +545,33 @@ p
 .property-image2--mk{
   background-image: url('https://i.jeuxactus.com/datas/jeux/m/a/mario-kart-8-deluxe/xl/mario-kart-8-deluxe-6204c3e5294bf.jpg');
 }
-
 /* Bottom Card Section */
-
 .property-description
 {
   background-color: #FAFAFC;
-  height:12em;
+  opacity: 0.8;
+  height:0em;
   width:14em;
   position:absolute;
   bottom:0em;
   -webkit-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
   -o-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
-  padding: 0.5em 1em;
+  padding:0px 1em;
   text-align:center;
 }
-
 /* Social Icons */
-
 .property-social-icons
 {
   width:1em;
   height:1em;
-  background-color:black;
+  background-color:white;
   position:absolute;
   bottom:1em;
   left:1em;
-  -webkit-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
-  -o-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 1);
+  -webkit-transition:all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition:all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
@@ -583,17 +579,17 @@ p
 
 .property-card:hover .property-description
 {
-  height:0em;
-  padding:0px 1em;
+  height:12em;
+  padding: 0.5em 1em;
 }
 .property-card:hover .property-image
 {
-  height:18em;
+  height:6em;
 }
 
 .property-card:hover .property-social-icons
 {
-  background-color:white;
+  background-color:black;
 }
 
 .property-card:hover .property-social-icons:hover
@@ -603,7 +599,7 @@ p
 }
 
 
-/* Optional
+
 
 .property-image-title
 {
@@ -621,4 +617,4 @@ font-size:1.2em;
 opacity:1;
 }
 
-*/
+
