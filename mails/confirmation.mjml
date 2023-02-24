@@ -50,7 +50,7 @@
                         Merci à vous !
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
-                        Cher(e) filleul(e),
+                        Chère Lynda,
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
                 Vous êtes désormais inscrit(e) à notre programme de parrainage ! En tant que nouvel(le) inscrit(e), vous êtes éligible à une récompense de bienvenue exclusive : 100 points de fidélité.                    
@@ -58,6 +58,10 @@
                     <mj-text color="#637381" font-size="16px">
                         Nous sommes impatients de vous aider à atteindre vos objectifs grâce à notre programme de parrainage. Si vous avez des questions, n'hésitez pas à nous contacter.
                     </mj-text>
+
+                    <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://playzone-bay.vercel.app/" width="300px">
+                        Votre espace
+                    </mj-button>
                   
    	<mj-text color="#637381" font-size="16px">
             Cordialement,
