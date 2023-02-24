@@ -47,42 +47,33 @@
             <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
                 <mj-column width="100%">
                     <mj-text color="#212b35" font-weight="bold" font-size="20px">
-                        Parrainez vos amis !
+                        Merci à vous !
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
-                        Bonjour [[data:prénom:"Alexis"]],
+                        Chère Lynda,
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
-                        Parrainez un ami pour notre événement d'e-sport à Paris et gagnez 100 points de fidélitée! Votre ami aura également La chance de gagnier c'est 100 points, alors n'attendez pas !
+                Vous êtes désormais inscrit(e) à notre programme de parrainage ! En tant que nouvel(le) inscrit(e), vous êtes éligible à une récompense de bienvenue exclusive : 100 points de fidélité.                    
+                </mj-text>
+                <mj-text align="center" color="#637381" font-size="16px" padding-top="5%" font-weight="bold">
+                       Retrouvez vos points de fidélité sur votre espace :
                     </mj-text>
-                    <mj-text color="#637381" font-size="16px">
-                        En tant que parrain, vous aurez également la possibilité de créer votre propre événement d'e-sport à Paris, comme des LAN et des tournois. Notre plateforme en ligne facilite la planification et la gestion de votre événement.
-                    </mj-text>
-                    <mj-text color="#637381" font-size="16px">
 
+                    <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://playzone-bay.vercel.app/" width="300px">
+                        Votre espace
+                    </mj-button>
+
+                    <mj-text color="#637381" font-size="16px" padding-top="5%">
+                        Nous sommes impatients de vous aider à atteindre vos objectifs grâce à notre programme de parrainage. Si vous avez des questions, n'hésitez pas à nous contacter.
                     </mj-text>
-                    <mj-text color="#637381" font-size="16px" padding-bottom="30px">
-                        Plus vous parrainez d'amis, plus vous aurez de points ! Alors commencez dès maintenant en envoyant votre code partenaire à vos amis.
-                    </mj-text>
-                    <mj-text color="#637381" font-size="16px" padding-top="30px">
-                        Ne manquez pas cette opportunité unique de vivre votre passion pour l'e-sport et de la partager avec vos amis. Cette offre de parrainage est limitée dans le temps, alors agissez vite !
-                    </mj-text>
+
                   
    	<mj-text color="#637381" font-size="16px">
             Cordialement,
           </mj-text>
           <mj-text color="#637381" font-size="16px">
             Paris PlayZone
-          </mj-text>
-                  
-                    <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://playzone-bay.vercel.app/?utm_source=parrainage&utm_medium=email&utm_campaign=parrainage" width="300px">
-                        lien parainage
-                    </mj-button>
-                    <mj-text color="#637381" font-size="20px" padding-top="30px" align="center">
-                        Code de parainage : E-parain2024
-                    </mj-text>
-                  
-                
+          </mj-text>  
                 </mj-column>
               
             </mj-section>
@@ -106,17 +97,13 @@
                         </mj-social-element>
                     </mj-social>
                     <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
-                        Lire cette email sur votre navigateur 
-                      <br></br>
-                      [[PERMALINK]]
+                        View this email in your browser
                     </mj-text>
                     <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-                        pour vous desinscrire cliquer ici 
-<br></br>
-[[UNSUB_LINK_FR]]
-                  </mj-text>
+                        You are receiving this email advertisement because you registered with Croft's Accountants. (123 Main Street, Austin, TX 78701) and agreed to receive emails from us regarding new features, events and special offers.
+                    </mj-text>
                     <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-                        &copy; 16corp Tous droits réservés
+                        &copy; Croft's Accountants Inc., All Rights Reserved.
                     </mj-text>
                 </mj-column>
             </mj-section>
