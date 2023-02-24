@@ -65,7 +65,7 @@
                         Plus vous parrainez d'amis, plus vous aurez de points ! Alors commencez dès maintenant en envoyant votre code parrain à vos amis.
                     </mj-text>
 
-                    <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://playzone-bay.vercel.app/?utm_source=parrainage&utm_medium=email&utm_campaign=parrainage" width="300px">
+                    <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://playzone-bay.vercel.app/?utm_source=parrainage&utm_medium=lienParrainage&utm_campaign=parrainage" width="300px">
                         Générer et envoyer le lien
                     </mj-button>
                     <mj-text color="#637381" font-size="20px" padding-top="30px" align="center">
