@@ -14,6 +14,22 @@ body{
     background-color: #061b50ba;
 }
 
+/*Scrollbar CSS*/
+.left::-webkit-scrollbar {
+  width: 10px;
+}
+
+.left::-webkit-scrollbar-thumb {
+  background-color: rgba(232, 198, 193, 0.795);
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color:  #ffffff;
+}
 .navbar {
     background-color: #8220ac90;
     color: #fff;
@@ -549,7 +565,6 @@ p
 .property-description
 {
   background-color: #FAFAFC;
-  opacity: 0.8;
   height:0em;
   width:14em;
   position:absolute;
