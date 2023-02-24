@@ -53,7 +53,7 @@
                         Bonjour [[data:prénom:"Alexis"]],
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
-                        Parrainez un ami pour notre événement d'e-sport à Paris et gagnez un PC en échange ! Votre ami pourra également participer à l'événement et tenter sa chance pour remporter un PC.
+                        Parrainez un ami pour notre événement d'e-sport à Paris et gagnez 100 points de fidélitée! Votre ami aura également La chance de gagnier c'est 100 points, alors n'attendez pas !
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
                         En tant que parrain, vous aurez également la possibilité de créer votre propre événement d'e-sport à Paris, comme des LAN et des tournois. Notre plateforme en ligne facilite la planification et la gestion de votre événement.
@@ -62,7 +62,7 @@
 
                     </mj-text>
                     <mj-text color="#637381" font-size="16px" padding-bottom="30px">
-                        Plus vous parrainez d'amis, plus vous avez de chances de gagner le jeu concours pour gagner un PC. Alors, commencez dès maintenant en envoyant votre code partenaire à vos amis.
+                        Plus vous parrainez d'amis, plus vous aurez de points ! Alors commencez dès maintenant en envoyant votre code partenaire à vos amis.
                     </mj-text>
                     <mj-text color="#637381" font-size="16px" padding-top="30px">
                         Ne manquez pas cette opportunité unique de vivre votre passion pour l'e-sport et de la partager avec vos amis. Cette offre de parrainage est limitée dans le temps, alors agissez vite !
@@ -116,7 +116,7 @@
 [[UNSUB_LINK_FR]]
                   </mj-text>
                     <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-                        &copy; 16corp tout drois réserver 
+                        &copy; 16corp
                     </mj-text>
                 </mj-column>
             </mj-section>
