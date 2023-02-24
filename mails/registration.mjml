@@ -33,7 +33,9 @@
           <span style="color: #979797; font-weight: normal">-</span>
         </mj-text>
         <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
-          IIM DIGITAL SCHOOL PARIS
+
+        IIM DIGITAL SCHOOL PARIS 
+
         </mj-text>
         <mj-image src="" width="600px" alt="" padding="0" href="https://google.com" />
       </mj-column>
@@ -50,6 +52,7 @@
             Evenement Esport 2023
           </mj-text>
           <mj-text color="#637381" font-size="16px">
+
             Bonjour cher Alexis,
           </mj-text>
           <mj-text color="#637381" font-size="16px">
