@@ -67,7 +67,14 @@
                     <mj-text color="#637381" font-size="16px" padding-top="30px">
                         Ne manquez pas cette opportunité unique de vivre votre passion pour l'e-sport et de la partager avec vos amis. Cette offre de parrainage est limitée dans le temps, alors agissez vite !
                     </mj-text>
-
+                  
+   	<mj-text color="#637381" font-size="16px">
+            Cordialement,
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Paris PlayZone
+          </mj-text>
+                  
                     <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
                         lien parainage
                     </mj-button>
@@ -77,6 +84,7 @@
                   
                 
                 </mj-column>
+              
             </mj-section>
             <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
                 <mj-column width="100%">
