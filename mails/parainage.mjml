@@ -75,7 +75,7 @@
             Paris PlayZone
           </mj-text>
                   
-                    <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
+                    <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://playzone-bay.vercel.app/" width="300px">
                         lien parainage
                     </mj-button>
                     <mj-text color="#637381" font-size="20px" padding-top="30px" align="center">
