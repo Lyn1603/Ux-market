@@ -40,7 +40,7 @@
         </mj-section>
         <mj-section>
             <mj-column width="100%">
-                <mj-image src="https://cdn.discordapp.com/attachments/1062398911488204831/1078434535290707968/coollogo_com-12378377.png" width="600px" alt="" padding="0" href="https://google.com" />
+                <mj-image src="https://cdn.discordapp.com/attachments/1062398911488204831/1078434535290707968/coollogo_com-12378377.png" width="600px" alt="" padding="0" href="https://playzone-bay.vercel.app/" />
             </mj-column>
         </mj-section>
         <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
@@ -53,34 +53,35 @@
                         Bonjour [[data:prénom:"Alexis"]],
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
-                        Parrainez un ami pour notre événement d'e-sport à Paris et gagnez 100 points de fidélitée! Votre ami aura également La chance de gagnier c'est 100 points, alors n'attendez pas !
+                        Parrainez un ami pour nos événements e-sportifs à Paris et gagnez 100 points de fidélité ! Votre ami aura également la chance de gagner 50 points, alors n'attendez pas !
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
-                        En tant que parrain, vous aurez également la possibilité de créer votre propre événement d'e-sport à Paris, comme des LAN et des tournois. Notre plateforme en ligne facilite la planification et la gestion de votre événement.
+                        En tant que parrain, vous aurez également la possibilité de créer votre propre événement d'e-sport à Paris, comme des LAN et des tournois. Notre plateforme en ligne facilite la planification et la gestion de votre évènement.
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
 
                     </mj-text>
                     <mj-text color="#637381" font-size="16px" padding-bottom="30px">
-                        Plus vous parrainez d'amis, plus vous aurez de points ! Alors commencez dès maintenant en envoyant votre code partenaire à vos amis.
+                        Plus vous parrainez d'amis, plus vous aurez de points ! Alors commencez dès maintenant en envoyant votre code parrain à vos amis.
                     </mj-text>
+
+                    <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://playzone-bay.vercel.app/?utm_source=parrainage&utm_medium=email&utm_campaign=parrainage" width="300px">
+                        Générer et envoyer le lien
+                    </mj-button>
+                    <mj-text color="#637381" font-size="20px" padding-top="30px" align="center">
+                        Code de parrainage à partager à votre filleul : E-parrain2024
+                    </mj-text>
+                    
                     <mj-text color="#637381" font-size="16px" padding-top="30px">
                         Ne manquez pas cette opportunité unique de vivre votre passion pour l'e-sport et de la partager avec vos amis. Cette offre de parrainage est limitée dans le temps, alors agissez vite !
                     </mj-text>
                   
-   	<mj-text color="#637381" font-size="16px">
+   	<!-- <mj-text color="#637381" font-size="16px">
             Cordialement,
-          </mj-text>
+          </mj-text> -->
           <mj-text color="#637381" font-size="16px">
             Paris PlayZone
           </mj-text>
-                  
-                    <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://playzone-bay.vercel.app/?utm_source=parrainage&utm_medium=email&utm_campaign=parrainage" width="300px">
-                        lien parainage
-                    </mj-button>
-                    <mj-text color="#637381" font-size="20px" padding-top="30px" align="center">
-                        Code de parainage : E-parain2024
-                    </mj-text>
                   
                 
                 </mj-column>
@@ -106,17 +107,17 @@
                         </mj-social-element>
                     </mj-social>
                     <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
-                        Lire cette email sur votre navigateur 
+                        Lire cet email sur votre navigateur. 
                       <br></br>
                       [[PERMALINK]]
                     </mj-text>
                     <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-                        pour vous desinscrire cliquer ici 
+                        Pour vous désinscrire, cliquez ci-dessous.
 <br></br>
 [[UNSUB_LINK_FR]]
                   </mj-text>
                     <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-                        &copy; 16corp Tous droits réservés
+                        &copy; 16CORP - Tous droits réservés
                     </mj-text>
                 </mj-column>
             </mj-section>
