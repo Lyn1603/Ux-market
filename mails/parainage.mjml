@@ -28,30 +28,29 @@
             <mj-column width="100%">
                 <mj-image src="" alt="" align="center" width="150px" />
                 <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
-                    Esport events
+                    Paris PlayZone
                     <br />
                     <span style="color: #979797; font-weight: normal">-</span>
                 </mj-text>
                 <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
-                    Lorem
-                    Lorem
+                    IIM DIGITAL SCHOOL PARIS
                 </mj-text>
                 <mj-image src="" width="600px" alt="" padding="0" href="https://google.com" />
             </mj-column>
         </mj-section>
-        <mj-section background-color="#1f2e78">
+        <mj-section>
             <mj-column width="100%">
-                <mj-image src="https://marketplace.canva.com/EAFY4bESTs8/1/0/1600w/canva-purple-black-modern-esport-gaming-gaming-banner-fkVW-vpae7Y.jpg" width="600px" alt="" padding="0" href="https://google.com" />
+                <mj-image src="https://cdn.discordapp.com/attachments/1062398911488204831/1078434535290707968/coollogo_com-12378377.png" width="600px" alt="" padding="0" href="https://google.com" />
             </mj-column>
         </mj-section>
         <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
             <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
                 <mj-column width="100%">
                     <mj-text color="#212b35" font-weight="bold" font-size="20px">
-                        Evenement Esport 2023
+                        Parrainez vos amis !
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
-                        Cher passionné d'e-sport,
+                        Bonjour Alexis,
                     </mj-text>
                     <mj-text color="#637381" font-size="16px">
                         Parrainez un ami pour notre événement d'e-sport à Paris et gagnez un PC en échange ! Votre ami pourra également participer à l'événement et tenter sa chance pour remporter un PC.

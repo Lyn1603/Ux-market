@@ -8,17 +8,17 @@
     </mj-attributes>
     <mj-style inline="inline">
       .body-section {
-      box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
       }
     </mj-style>
     <mj-style inline="inline">
       .text-link {
-      color: #5e6ebf
+        color: #5e6ebf
       }
     </mj-style>
     <mj-style inline="inline">
       .footer-link {
-      color: #888888
+        color: #888888
       }
     </mj-style>
 
@@ -28,20 +28,19 @@
       <mj-column width="100%">
         <mj-image src="" alt="" align="center" width="150px" />
         <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
-          Esport events
+          Paris PlayZone
           <br />
           <span style="color: #979797; font-weight: normal">-</span>
         </mj-text>
         <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
-        Lorem
-        Lorem
+          IIM DIGITAL SCHOOL PARIS
         </mj-text>
         <mj-image src="" width="600px" alt="" padding="0" href="https://google.com" />
       </mj-column>
     </mj-section>
-    <mj-section background-color="#1f2e78">
+    <mj-section>
       <mj-column width="100%">
-        <mj-image src="https://marketplace.canva.com/EAFY4bESTs8/1/0/1600w/canva-purple-black-modern-esport-gaming-gaming-banner-fkVW-vpae7Y.jpg" width="600px" alt="" padding="0" href="https://google.com" />
+        <mj-image src="https://cdn.discordapp.com/attachments/1062398911488204831/1078434535290707968/coollogo_com-12378377.png" width="600px" alt="" padding="0" href="https://google.com" />
       </mj-column>
     </mj-section>
     <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
@@ -51,36 +50,36 @@
             Evenement Esport 2023
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            Lorem,
+            Bonjour cher Alexis,
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia a assumenda nulla in quisquam optio quibusdam fugiat perspiciatis nobis, ad tempora culpa porro labore. Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis.
+            Nous sommes ravis de vous informer des prochains tournois E-sport qui auront lieu dans la ville de Paris, sur Mario kart 8 . Nous avons remarqué que vous êtes un grand passionné de ce jeu et nous sommes convaincus que vous apprécierez cette occasion unique de rencontrer d'autres joueurs de cette communauté E-sport.
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            Tempora culpa porro labore. Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis:
+            Notre entreprise organise cet événement pour la première fois et nous sommes déterminés à en faire une expérience inoubliable pour tous les participants. Nous avons prévu des activités passionnantes et des concours pour tous les niveaux de compétence, ainsi que des prix incroyables à gagner. Que vous soyez débutant ou expert, vous êtes sûr de trouver votre place parmi nous.
+
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            <ul>
-              <li style="padding-bottom: 20px"><strong>Lorem ipsum dolor:</strong> Sit amet consectetur adipisicing elit.</li>
-              <li style="padding-bottom: 20px"><strong>Quia a assumenda nulla:</strong> Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis.</li>
-              <li><strong>Tempora culpa porro labore:</strong> In quisquam optio quibusdam fugiat perspiciatis nobis.</li>
-            </ul>
+            Nous savons que vous êtes intéressé à en savoir plus sur ces tournois et c'est pourquoi nous aimerions vous inviter à vous inscrire.
+            En tant que membre de notre communauté, vous aurez accès à des informations en avant-première sur les dernières nouvelles et les événements les plus populaires, ainsi qu'à des offres spéciales réservées aux abonnés.
+
           </mj-text>
-          <mj-text color="#637381" font-size="16px" padding-bottom="30px">
-            Lorem ipsum dolor <a class="text-link" href="https://google.com">sit amet consectetur</a> adipisicing elit. Earum eaque sunt nulla in, id eveniet quae unde ad ipsam ut, harum autem porro reiciendis minus libero illo. Vero, fugiat reprehenderit.
+          <mj-text color="#637381" font-size="16px">
+            Si vous êtes prêt à découvrir le prochain tournoi Mario kart de Paris, Ou a crée le votre, inscrivez-vous dès maintenant en cliquant sur le lien ci-dessous. Nous avons hâte de vous voir parmi nous et de partager cette expérience unique avec vous.
           </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Cordialement,
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Paris PlayZone
+          </mj-text>
+
           <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
-            Lorem
+            Rejoindre un évènement
           </mj-button>
           <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
-            Lorem
+            Créer un évenement
           </mj-button>
-          <mj-text color="#637381" font-size="16px" padding-top="30px">
-            Lorem ipsum dolor <a class="text-link" href="https://google.com">sit amet consectetur</a> adipisicing elit. Earum eaque sunt nulla in, id eveniet quae unde ad ipsam ut, harum autem porro reiciendis minus libero illo. Vero, fugiat reprehenderit.
-          </mj-text>
-          <mj-text color="#637381" font-size="16px" padding-bottom="0">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
