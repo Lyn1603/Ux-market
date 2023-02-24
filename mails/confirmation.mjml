@@ -1,0 +1,104 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-preview></mj-preview>
+        <mj-attributes>
+            <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+            <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+        </mj-attributes>
+        <mj-style inline="inline">
+            .body-section {
+                box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+            }
+        </mj-style>
+        <mj-style inline="inline">
+            .text-link {
+                color: #5e6ebf
+            }
+        </mj-style>
+        <mj-style inline="inline">
+            .footer-link {
+                color: #888888
+            }
+        </mj-style>
+
+    </mj-head>
+    <mj-body background-color="#E7E7E7" width="600px">
+        <mj-section full-width="full-width" background-color="#040B4F" padding-bottom="0">
+            <mj-column width="100%">
+                <mj-image src="" alt="" align="center" width="150px" />
+                <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+                    Paris PlayZone
+                    <br />
+                    <span style="color: #979797; font-weight: normal">-</span>
+                </mj-text>
+                <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
+                    IIM DIGITAL SCHOOL PARIS
+                </mj-text>
+                <mj-image src="" width="600px" alt="" padding="0" href="https://google.com" />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column width="100%">
+                <mj-image src="https://cdn.discordapp.com/attachments/1062398911488204831/1078434535290707968/coollogo_com-12378377.png" width="600px" alt="" padding="0" href="https://google.com" />
+            </mj-column>
+        </mj-section>
+        <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+            <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+                <mj-column width="100%">
+                    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+                        Merci à vous !
+                    </mj-text>
+                    <mj-text color="#637381" font-size="16px">
+                        Cher(e) filleul(e),
+                    </mj-text>
+                    <mj-text color="#637381" font-size="16px">
+                Vous êtes désormais inscrit(e) à notre programme de parrainage ! En tant que nouvel(le) inscrit(e), vous êtes éligible à une récompense de bienvenue exclusive : 100 points de fidélité.                    
+                </mj-text>
+                    <mj-text color="#637381" font-size="16px">
+                        Nous sommes impatients de vous aider à atteindre vos objectifs grâce à notre programme de parrainage. Si vous avez des questions, n'hésitez pas à nous contacter.
+                    </mj-text>
+                  
+   	<mj-text color="#637381" font-size="16px">
+            Cordialement,
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Paris PlayZone
+          </mj-text>  
+                </mj-column>
+              
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+                <mj-column width="100%">
+                    <mj-divider border-color="#DFE3E8" border-width="1px" />
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <mj-wrapper full-width="full-width">
+            <mj-section>
+                <mj-column width="100%" padding="0">
+                    <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+                        <mj-social-element name="facebook" href="https://mjml.io/" background-color="#A1A0A0">
+                        </mj-social-element>
+                        <mj-social-element name="google" href="https://mjml.io/" background-color="#A1A0A0">
+                        </mj-social-element>
+                        <mj-social-element name="twitter" href="https://mjml.io/" background-color="#A1A0A0">
+                        </mj-social-element>
+                        <mj-social-element name="linkedin" href="https://mjml.io/" background-color="#A1A0A0">
+                        </mj-social-element>
+                    </mj-social>
+                    <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+                        View this email in your browser
+                    </mj-text>
+                    <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+                        You are receiving this email advertisement because you registered with Croft's Accountants. (123 Main Street, Austin, TX 78701) and agreed to receive emails from us regarding new features, events and special offers.
+                    </mj-text>
+                    <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+                        &copy; Croft's Accountants Inc., All Rights Reserved.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+
+    </mj-body>
+</mjml>
