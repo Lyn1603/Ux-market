@@ -465,10 +465,7 @@ input[type="submit"]:hover {
     flex-direction: column;
     z-index: -2;
   }
-
 }
-
-
 body
 {
   font-family: 'RobotoDraft', 'Roboto', sans-serif;
@@ -494,7 +491,9 @@ p
 .center
 {
   width:100%;
+  margin-bottom: 2em;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
